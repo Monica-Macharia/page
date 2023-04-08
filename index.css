@@ -16,7 +16,7 @@ nav ul li{
     margin-left: 500px;
 }
 .input-form{
-    margin-left: 500px;
+    margin-left: 300px;
     padding-bottom: 25px;
 }
 .buttons{
@@ -33,6 +33,18 @@ nav ul li a{
    
     
 }
+
+input#search{
+    width: 55%;
+    margin-left: 20px;
+    height:49px;
+    border-radius: 50px;
+}
+ span.material-symbols-outlined{
+    position: absolute;
+    margin-left: 57px;
+    padding-top: 10px;
+} 
 div.location{
     
     margin-top: 17.9%;
