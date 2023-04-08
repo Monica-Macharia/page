@@ -1,0 +1,42 @@
+
+
+
+
+div.location{
+    
+    margin-top: 10%;
+}
+p.country{
+    padding-top: 10px;
+    padding-left: 40px;
+}
+footer{
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 100%;
+}
+
+div.foot-links{
+  
+    border-top: 2px solid grey;
+}
+div.foot-links ul li{
+    display:inline-flex;
+    padding-right: 30px;
+    text-decoration: none;
+    color:black;
+    
+}
+div.foot-links ul li a{
+    
+    text-decoration: none;
+    color:black;
+}
+
+a.carbon{
+    justify-content: center;
+    
+}
+a.right{
+    float: left;
+}
