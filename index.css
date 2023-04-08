@@ -9,7 +9,18 @@ nav ul li{
     
 
 }
+ul.buttons li button{
+    height: 40px;
+    width: 140px;
+    border-radius: 5%;
+    border-width: 1px;
+    border-color: gray;
+}
+ul.buttons li{
+list-style: none;
+padding-left: 20px;
 
+}
 
 .google{
     margin-top: 150px;
@@ -19,11 +30,10 @@ nav ul li{
     display: flex;
     
     justify-content:center;
-    padding-bottom: 25px;
-}
-.buttons{
-    margin-left: 10px;
-    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    
+    
 }
 .language{
     display: flex;
@@ -43,7 +53,8 @@ input#search{
     
     height: 49px;
     border-radius: 50px;
-
+    border-width: 1px;
+    border-color: gray;
 }
  span.material-symbols-outlined{
     position: absolute;
@@ -64,11 +75,12 @@ input#search{
     display: flex;
     
     justify-content:center;
+    
 
 }
 div.location{
     
-    margin-top: 17.9%;
+    margin-top: 11.9%;
 }
 p.country{
     padding-top: 10px;
