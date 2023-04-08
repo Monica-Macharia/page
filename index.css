@@ -48,13 +48,23 @@ nav ul li a{
     
 }
 
-input#search{
+.input{
+    display: inline;
+    padding:10px 50px;
+    margin: 2px;
     width: 600px;
+    
     
     height: 49px;
     border-radius: 50px;
     border-width: 1px;
     border-color: gray;
+    background-image: url(images/search.svg), url(images/search.svg);
+    
+    background-position: left top, right; 
+    background-size: 30px; 
+    /* background-position-x: 10px; */
+    background-repeat: no-repeat;
 }
  span.material-symbols-outlined{
     position: absolute;
@@ -115,4 +125,10 @@ a.carbon{
 }
 a.right{
     float: left;
+}
+
+.btn{
+    background-color: green;
+    float: right;
+    padding: 15px;
 }
