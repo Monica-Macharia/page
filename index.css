@@ -10,15 +10,18 @@ nav ul li{
 
 }
 
+
 .google{
     margin-top: 150px;
     margin-left: 500px;
 }
 .input-form{
     margin-left: 500px;
+    padding-bottom: 25px;
 }
 .buttons{
     margin-left: 500px;
+    padding-bottom: 10px;
 }
 .language{
     margin-left: 500px;
@@ -27,12 +30,12 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     padding: 10px;
-    
+   
     
 }
 div.location{
     
-    margin-top: 10%;
+    margin-top: 17.9%;
 }
 p.country{
     padding-top: 10px;
