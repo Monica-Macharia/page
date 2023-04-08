@@ -13,18 +13,22 @@ nav ul li{
 
 .google{
     margin-top: 150px;
-    margin-left: 500px;
+    margin-left: 550px;
 }
 .input-form{
-    margin-left: 300px;
+    display: flex;
+    
+    justify-content:center;
     padding-bottom: 25px;
 }
 .buttons{
-    margin-left: 500px;
+    margin-left: 10px;
     padding-bottom: 10px;
 }
 .language{
-    margin-left: 500px;
+    display: flex;
+    
+    justify-content:center;
 }
 
 nav ul li a{
@@ -35,16 +39,33 @@ nav ul li a{
 }
 
 input#search{
-    width: 55%;
-    margin-left: 20px;
-    height:49px;
+    width: 600px;
+    
+    height: 49px;
     border-radius: 50px;
+
 }
  span.material-symbols-outlined{
     position: absolute;
-    margin-left: 57px;
+    margin-left: 87px;
     padding-top: 10px;
 } 
+.material-symbols-rounded{
+    position: absolute;
+    padding: 10px;
+    margin-left: 550px;
+   
+   
+
+    /* margin-left: 87px;
+    padding-top: 10px; */
+}
+.buttons{
+    display: flex;
+    
+    justify-content:center;
+
+}
 div.location{
     
     margin-top: 17.9%;
