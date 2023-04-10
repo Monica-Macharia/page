@@ -59,8 +59,8 @@ nav ul li a{
     border-radius: 50px;
     border-width: 1px;
     border-color: gray;
-    background-image: url(images/search.svg);
-    background-position: left; 
+    background-image: url(images/search.svg), url(images/mic.svg), url(images/photo.svg);
+    background-position: left, right, right; 
     background-size: 30px; 
     /* background-position-x: 10px; */
     background-repeat: no-repeat;
