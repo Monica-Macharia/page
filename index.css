@@ -65,12 +65,12 @@ nav ul li a{
     /* background-position-x: 10px; */
     background-repeat: no-repeat;
 }
- span.material-symbols-outlined{
+ /* span.material-symbols-outlined{
     position: absolute;
     margin-left: 87px;
     padding-top: 10px;
-} 
-.material-symbols-rounded{
+}  */
+/* .material-symbols-rounded{
     position: absolute;
     padding: 10px;
     margin-left: 550px;
@@ -79,7 +79,7 @@ nav ul li a{
 
     /* margin-left: 87px;
     padding-top: 10px; */
-}
+} */
 .buttons{
     display: flex;
     
