@@ -70,7 +70,7 @@ nav ul li a{
     margin-left: 87px;
     padding-top: 10px;
 }  */
-/* .material-symbols-rounded{
+.material-symbols-rounded{
     position: absolute;
     padding: 10px;
     margin-left: 550px;
@@ -79,7 +79,7 @@ nav ul li a{
 
     /* margin-left: 87px;
     padding-top: 10px; */
-} */
+} 
 .buttons{
     display: flex;
     
